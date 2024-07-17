@@ -1,0 +1,6 @@
+
+
+for kruskal algo watch vedio in this manner:
+1. Gate Smashers
+2. Abdul bari
+3. Striver disjoint set and then kruskal algo video
